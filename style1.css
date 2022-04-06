@@ -1,0 +1,19 @@
+.header
+{ 
+  width:1500px;
+  height:250px;
+  border-style:groove;
+background-color:Pink;
+}
+.body
+{
+ width:1500px;
+  height:500px;
+  border-style:groove;
+background-color:LightBlue;
+}
+.list
+{
+font-family:'Forte';
+font-size:17;
+}
